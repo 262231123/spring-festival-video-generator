@@ -116,4 +116,5 @@ spring-festival-video-generator/
 
 ## 📄 License
 
-MIT
+盈星莹辰
+苏州盈碳数字科技有限公司
